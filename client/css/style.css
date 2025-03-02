@@ -1,0 +1,159 @@
+body {
+    background-color: #f8f9fa;
+    font-family: 'Roboto', sans-serif;
+}
+
+#carrosEstacionados {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-weight: 500;
+}
+
+.navbar {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.card-header {
+    font-weight: bold;
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+    font-size: 18px;
+}
+
+.badge-especial {
+    background-color: #ffc107;
+    color: #212529;
+}
+
+.card {
+    border: 1px solid #007bff;
+    min-height: 290px;
+}
+
+.card-body {
+    background-color: #e9ecef;
+    padding: 15px;
+}
+
+.setor-header {
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+#cadastroCarroModalTitulo {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-weight: 600;
+    color: #586472;
+}
+
+#cadastroCarroModalDescricao {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-weight: 300;
+    color: #b8bcca;
+}
+
+.form-control {
+    background-color: #F8FAFC;
+}
+
+.form-control::placeholder {
+    color: #B8BCCA;
+}
+
+.modal-body label {
+    color: #6f7482;
+    font-weight: 500;
+}
+
+.modal-body {
+    max-height: 70vh;
+    overflow-y: auto;
+}
+
+.btn-full-width {
+    width: 100%;
+}
+
+.input-group-text {
+    cursor: pointer;
+}
+
+.vaga-disponivel {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+.linha-card {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.linha-card span {
+    font-weight: 600;
+}
+
+.vaga-disponivel-texto {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+.bot-cadastrar-carro {
+    margin-top: 80px;
+}
+
+@media (max-width: 767px) {
+    .bot-cadastrar-carro {
+        margin-top: 100px;
+    }
+}
+
+.btn-secondary {
+    background-color: #6c757d;
+    border-color: #6c757d;
+}
+
+.btn-secondary:hover {
+    background-color: #5a6268;
+    border-color: #545b62;
+}
+
+.d-flex .btn {
+    flex: 1;
+    margin: 0 5px;
+}
+
+.d-flex .btn:first-child {
+    margin-left: 0;
+}
+
+.d-flex .btn:last-child {
+    margin-right: 0;
+}
+
+.d-flex.gap-2 .btn {
+    margin: 0 2px;
+}
+
+.titulo-navbar {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.historico-navbar {
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+.historico-navbar:hover {
+    color: #e6e6e6;
+}
