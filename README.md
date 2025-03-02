@@ -1,4 +1,4 @@
-# Adam Estacionamento
+# Adam Estacionamentos
 
 Este projeto é um sistema de gerenciamento de estacionamento que permite cadastrar, editar, visualizar e remover carros estacionados, desenvolvido para uma atividade de revisão do 3º ano do Ensino Médio. O sistema é composto por um frontend em HTML, CSS e JavaScript, e um backend em Node.js com Express.
 
