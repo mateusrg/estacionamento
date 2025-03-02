@@ -10,7 +10,7 @@ Este projeto é um sistema de gerenciamento de estacionamento que permite cadast
 - [Configuração](#configuração)
 - [Uso](#uso)
 - [Estrutura do Projeto](#estrutura-do-projeto)
-- [Prototipagem](#prototipagem)
+- [Design](#design)
 - [API](#api)
 
 ## Requisitos Funcionais
@@ -93,8 +93,8 @@ estacionamento/
 ├── .gitignore
 └── README.md
 
-## Prototipagem
-O design e a prototipagem do sistema foram realizados no Figma. Você pode acessar o protótipo através do link abaixo:
+## Design
+O design do sistema foi criado no Figma. Você pode acessar o protótipo através do link abaixo:
 [Figma - Adam Estacionamentos](https://www.figma.com/design/mrNgdlxbfWQXK4lN5N3dUm)
 
 ## API
