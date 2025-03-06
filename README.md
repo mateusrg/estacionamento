@@ -66,6 +66,8 @@ npm start
 1. Abra o arquivo index.html em um navegador web.
 
 ## Estrutura do Projeto
+
+```
 estacionamento/
 ├── client/
 │   ├── css/
@@ -92,6 +94,7 @@ estacionamento/
 │   ├── package.json
 ├── .gitignore
 └── README.md
+```
 
 ## Design
 O design do sistema foi criado no Figma. Você pode acessar o protótipo através do link abaixo:
@@ -117,3 +120,6 @@ O design do sistema foi criado no Figma. Você pode acessar o protótipo atravé
 - `GET /vaga`: Obter todas as vagas.
 - `PUT /vaga`: Atualizar uma vaga. Também não é utilizada em nenhum momento.
 - `DELETE /vaga/:id`: Deletar uma vaga. Também não é utilizada em nenhum momento.
+
+## Dificuldades
+Não tive muitas dificuldades no desenvolvimento do projeto. O banco de dados e o servidor foram bem tranquilos de fazer. O que mais me causou problemas foi o bootstrap, pois quase nunca usei. Por conta disso, tive que usar bastante a documentação.
